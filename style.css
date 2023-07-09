@@ -1,0 +1,41 @@
+#Welcome{
+    position:absolute;
+    bottom:0;
+    display:table;
+    width:100%;
+    height:100%;
+    text-align:center;
+    background:linear-gradient(Blue 20%, Green 80%);
+}
+#Welcome h1{
+    text-decoration:underline;
+}
+#Rules{
+    position:absolute;
+    bottom:0;
+    background:linear-gradient(aqua 20%, pink 80%);
+    text-align:center;
+    list-style:lower-roman;
+    width:100%;
+}
+#Rules h1{
+    text-decoration:underline;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:orangered;
+}
+#name{
+    font-size:50px;
+    font-family:'Courier New', Courier, monospace;
+    color:blueviolet;
+}
+#Info{
+    text-align:center;
+    font-size:18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:yellowgreen;
+}
+#Videos h1{
+    text-decoration:underline !important;
+    color:peru;
+    font-size:50px;
+}
